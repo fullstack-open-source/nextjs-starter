@@ -116,7 +116,6 @@ public/uploads/
 public/uploads/**/*
 !public/uploads/.gitkeep
 uploads/
-media/
 
 # ==============================================================================
 # IDE & Editors
